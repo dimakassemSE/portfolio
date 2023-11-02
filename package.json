@@ -1,6 +1,6 @@
 {
-	"name": "proto-folio",
-	"homepage": "https://dimakassem.github.io/proto-folio",
+	"name": "port-folio",
+	"homepage": "https://dimakassemse.github.io/portfolio/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
