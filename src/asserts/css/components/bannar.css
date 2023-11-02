@@ -1,0 +1,19 @@
+/************ Banner Css ************/
+.banner {
+}
+.banner div * {
+	margin-bottom: 16px;
+}
+
+.banner p {
+	color: fuchsia;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.txt-rotate > .wrap {
+	border-right: 0.08em solid black;
+}
+.banner-img {
+	width: 90%;
+}

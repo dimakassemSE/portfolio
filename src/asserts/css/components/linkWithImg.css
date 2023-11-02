@@ -1,0 +1,39 @@
+.link-with-img {
+	width: 32px;
+	height: 32px;
+	background: white;
+	display: inline-flex;
+	border-radius: 25%;
+	margin-right: 6px;
+	align-items: center;
+	justify-content: center;
+	line-height: 1;
+	border: 1px solid fuchsia;
+}
+.link-with-img:hover {
+	cursor: pointer;
+}
+.link-with-img::before {
+	content: "";
+	width: 32px;
+	height: 32px;
+	position: absolute;
+	background-color: fuchsia;
+	border-radius: 25%;
+	transform: scale(0);
+	transition: 0.3s ease-in-out;
+}
+
+.link-with-img img {
+	width: 40%;
+	height: 50%;
+	z-index: 1;
+	transition: 0.3s ease-in-out;
+}
+.link-with-img:hover img {
+	filter: brightness(0) saturate(100%) invert(0%) sepia(7%) saturate(98%)
+		hue-rotate(346deg) brightness(95%) contrast(86%);
+}
+.link-with-img:hover::before {
+	transform: scale(1);
+}

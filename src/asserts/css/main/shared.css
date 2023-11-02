@@ -1,0 +1,52 @@
+.fill-background-hover {
+	position: relative;
+}
+.fill-background-hover * {
+	color: white;
+}
+.fill-background-hover::before {
+	content: "";
+	width: 0%;
+	height: 0%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: -1;
+	transition: 0.3s ease-in-out;
+}
+
+.fill-background-hover:hover::before {
+	content: "";
+	width: 100%;
+	height: 100%;
+}
+
+.secondary-border {
+	border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.font-size-20 {
+	font-weight: 700;
+	letter-spacing: 0.8px;
+	font-size: 20px;
+}
+
+.mb-16 {
+	margin-bottom: 16px;
+}
+
+.section-title {
+	color: fuchsia;
+	font-size: 65px;
+
+	font-weight: 700;
+	line-height: 1;
+}
+.t-center {
+	text-align: center;
+}
+
+.section-vh {
+	min-height: 100vh;
+	margin: 24px;
+}

@@ -1,0 +1,17 @@
+body {
+	font-family: "Cairo", sans-serif !important;
+	--primary-color: black;
+	--secondary-color: Fuchsia;
+	scroll-padding-top: 1.25rem;
+}
+
+.primary-color {
+	color: var(--primary-color);
+}
+.secondary-color {
+	color: var(--secondary-color);
+}
+
+* {
+	letter-spacing: 0.8;
+}

@@ -1,0 +1,11 @@
+/* ***********tech Skills Css ************/
+
+.skill-bx {
+	border-radius: 25px;
+	text-align: center;
+	padding: 15px;
+}
+.progress-bar {
+	height: 40px !important ;
+	background: fuchsia !important ;
+}
