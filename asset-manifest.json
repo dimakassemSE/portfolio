@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.57b0253a.css",
+    "main.js": "/portfolio/static/js/main.6bb76a46.js",
+    "static/js/787.2e9b76fa.chunk.js": "/portfolio/static/js/787.2e9b76fa.chunk.js",
+    "static/media/kasper.png": "/portfolio/static/media/kasper.f9e59a891dec2e019e37.png",
+    "static/media/movies.png": "/portfolio/static/media/movies.96e6200ddeeff4474e73.png",
+    "static/media/specialDesignCompany.png": "/portfolio/static/media/specialDesignCompany.bb15b7efaa900ff6d2fb.png",
+    "static/media/protoFolio.png": "/portfolio/static/media/protoFolio.fdc71fb84f45b47f21c7.png",
+    "static/media/banner-side.png": "/portfolio/static/media/banner-side.9cbc2b903311fb486b1b.png",
+    "static/media/BMIApp.png": "/portfolio/static/media/BMIApp.c99c24948aac9f5c715b.png",
+    "static/media/TrelloApp.png": "/portfolio/static/media/TrelloApp.e14e091f8a610114d3cf.png",
+    "static/media/landingPage.png": "/portfolio/static/media/landingPage.18af8fb49b96972dca96.png",
+    "static/media/QuizApp.png": "/portfolio/static/media/QuizApp.9c21b62aca8caa1c39b3.png",
+    "static/media/Cairo-Bold.ttf": "/portfolio/static/media/Cairo-Bold.c78166130a8bb1c483dc.ttf",
+    "static/media/Cairo-Light.ttf": "/portfolio/static/media/Cairo-Light.8274a5026149214f40a2.ttf",
+    "static/media/Cairo-Regular.ttf": "/portfolio/static/media/Cairo-Regular.0dbc695157a638d7cfe1.ttf",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/github.svg": "/portfolio/static/media/github.e5acd7d2e8885d9a2c768bde3f6ab0fa.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.0e0002e784bf59ab587e775098413996.svg",
+    "static/media/preview.svg": "/portfolio/static/media/preview.474a8657f216e52f4bac0e8d49278cfc.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/linkedin-in.svg": "/portfolio/static/media/linkedin-in.095411c2f3b9bcd8e004bf1b78e97481.svg",
+    "static/media/facebook-f.svg": "/portfolio/static/media/facebook-f.6afcb27f3c8aa41dc3ebff4e7a1daf07.svg",
+    "main.57b0253a.css.map": "/portfolio/static/css/main.57b0253a.css.map",
+    "main.6bb76a46.js.map": "/portfolio/static/js/main.6bb76a46.js.map",
+    "787.2e9b76fa.chunk.js.map": "/portfolio/static/js/787.2e9b76fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b0253a.css",
+    "static/js/main.6bb76a46.js"
+  ]
+}
