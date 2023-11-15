@@ -4,7 +4,7 @@ nav.navbar {
 	top: 0;
 	z-index: 9999;
 	transition: 0.32s ease-in-out;
-	position: fixed;
+	position: sticky;
 }
 
 nav.navbar .navbar-brand img {
